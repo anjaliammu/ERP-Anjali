@@ -30,6 +30,7 @@ public class Bsemethod
 		pwd.sendKeys("master");
 		driver.findElement(By.id("btnsubmit")).click();
 		//cahnges from eclipse
+		//changes from GIT
 	}
 	
 	
